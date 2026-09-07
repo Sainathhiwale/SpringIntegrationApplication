@@ -1,0 +1,2 @@
+Hello Spring boot integration test
+it is a simple text file used for testing purposes in a Spring Boot application.
